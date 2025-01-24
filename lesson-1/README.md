@@ -16,13 +16,14 @@ It covers data collection, training, and inference steps.
  - Trains a deep learning model (ResNet18) to classify the images. 
  - Provides predictions with confidence probabilities.
 
-## Setup 1. Clone the repository: 
-```bash git clone <repository_url> cd <repository_folder> ``` 
+## Setup 1. 
+Clone the repository: 
+```bash git clone <https://github.com/Irpain/fast-ai-lessons> ```
+```cd <fast-ai-lessons/lesson-1> ``` 
 
-2. Install the required Python packages: 
+## Setup 2. 
+Install the required Python packages: 
 ```bash pip install -U fastai duckduckgo_search fastdownload ``` 
-
-3. Ensure you have a stable internet connection to fetch data.
 
 ## Usage 
 ### Step 1: 
